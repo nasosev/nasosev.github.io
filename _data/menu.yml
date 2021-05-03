@@ -1,0 +1,22 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about
+    entries:
+      - title: cv
+        url: assets/personal/cv.pdf
+      - title: email
+        url: mailto:nasosev@pm.removethis.me
+      - title: github
+        url: https://github.com/nasosev/
+      - title: twitter
+        url: https://twitter.com/nasosev
+
+  # - title: posts
+  #   post_list: true
+  #   url: false
+  #   entries: false
+
+  # - title: rss feed
+  #   url: feed.xml
