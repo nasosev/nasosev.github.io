@@ -20,16 +20,18 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-**PhD Candidate- The University of Queensland, School of Electrical Engineering and Computer Science (EECS)**
+***PhD Candidate- The University of Queensland, School of Electrical Engineering and Computer Science (EECS)***
+
 Currently a third-year PhD student, my academic journey is centred around the intersection of the abstract and the practical. I'm deeply involved in the exploration of the application of sheaf theory and valuation algebras to concurrent and distributed systems. This exploration is driven by the desire to enhance the efficiency and reliability of these systems that form the backbone of digital infrastructure.
 
-*Research Interests*:
+**Research Interests**:
 
 - Sheaf Theory
 - Valuation Algebras
 - Concurrent and Distributed Systems
 
-**Founder - Oneironaut**
+***Founder - Oneironaut***
+
 I'm the founder of [Oneironaut](https://oneironaut.dev), a mathematical software consultancy.  We leverage a distinctive blend of category theory, sheaf theory, functional programming, and machine learning in knowledge representation & reasoning and predictive analytics. This enables us to create bespoke, effective, and innovative solutions for our clients' complex problems.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
