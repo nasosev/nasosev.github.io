@@ -1,15 +1,14 @@
 Write a professionl academic bio for a personal website.
-Write in the first person.
-Write a single paragraph.
-The tone should be succinct, intelligent, direct.
+The tone should always be intelligent and professional.
+The language should be very direct and precise, without unnecessary words.
+Use bullet points where appropriate.
 
-Details:
+The first short paragraph describes your role as a PhD student.
+You are a 3rd year PhD student in the school of Electrical Engineering and Computer Science (EECS) at The University of Queensland.
+Your research interests are in the application of sheaf theory and valuation algebras to concurrent and distributed systems.
 
+The second short paragraph describes your role as the founder of the startup Oneironaut.
+Oneironaut is a consultancy specialising in mathematical software leveraging category theory, sheaf theory, functional programming, and machine learning to the realm of knowledge representation & reasoning, and predictive analytics.
+Keywords for Oneironaut: APPLIED CATEGORY THEORY | ARTIFICIAL INTELLIGENCE | INFORMATION THEORY | KNOWLEDGE REPRESENTATION & REASONING | MACHINE LEARNING | PREDICTIVE ANALYTICS | TOPOLOGICAL DATA ANALYSIS
 
-
-- You are the founder of a company called Oneironaut, a startup consultancy specialising in mathematical software leveraging category theory, functional programming, and machine learning.
-
-- You are also a 3rd year PhD student in the school of Electrical Engineering and Computer Science (EECS).
-
-- Your research interests are in the application of sheaf theory to distributed systems and to knowledge representation and reasoning.
-
+Tagline: "We are a software consultancy delivering bespoke solutions to complex problems using cutting-edge category theory and machine learning."
