@@ -1,0 +1,15 @@
+Write a professionl academic bio for a personal website.
+Write in the first person.
+Write a single paragraph.
+The tone should be succinct, intelligent, direct.
+
+Details:
+
+
+
+- You are the founder of a company called Oneironaut, a startup consultancy specialising in mathematical software leveraging category theory, functional programming, and machine learning.
+
+- You are also a 3rd year PhD student in the school of Electrical Engineering and Computer Science (EECS).
+
+- Your research interests are in the application of sheaf theory to distributed systems and to knowledge representation and reasoning.
+
