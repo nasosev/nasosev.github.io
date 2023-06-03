@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-***PhD Candidate- The University of Queensland, School of Electrical Engineering and Computer Science (EECS)***
+***PhD Candidate - The University of Queensland, School of Electrical Engineering and Computer Science (EECS)***
 
 Currently a third-year PhD student, my academic journey is centred around the intersection of the abstract and the practical. I'm deeply involved in the exploration of the application of sheaf theory and valuation algebras to concurrent and distributed systems. This exploration is driven by the desire to enhance the efficiency and reliability of these systems that form the backbone of digital infrastructure.
 
