@@ -16,7 +16,7 @@
       year: 2020-2023
       description:
         - 'Thesis: “Concurrent valuation algebras”'
-        - 'Advisor: Ian J. Hayes'
+        - 'Advisors: Ian J. Hayes, Larissa Meinicke'
         # - title: Description 3.
         #   contents:
         #     - Sub-description 1.
@@ -39,7 +39,7 @@
         - Independent consultancy for mathematical research and software development
 
     - title: Research Mathematician & Software Developer Lead
-      institution: Sirius-Beta
+      institution: Sirius-beta
       year: 2022-
       description:
       - Currently leading a project funded by the Defence Science and Technology Group (DST) through their Next Generation Technology Fund (NGTF)
