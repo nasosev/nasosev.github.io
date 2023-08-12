@@ -19,20 +19,22 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+I'm Naso Evangelou-Oost, a third-year PhD Candidate at the University of Queensland, School of Electrical Engineering and Computer Science (EECS). My academic journey is deeply rooted in a fascination with mathematics and computer science, leading me to explore intricate realms like valuation algebras and sheaf theory.
 
-***PhD Candidate - The University of Queensland, School of Electrical Engineering and Computer Science (EECS)***
-
-Currently a third-year PhD student, my academic journey is centred around the intersection of the abstract and the practical. I'm deeply involved in the exploration of the application of sheaf theory and valuation algebras to concurrent and distributed systems. This exploration is driven by the desire to enhance the efficiency and reliability of these systems that form the backbone of digital infrastructure.
+***PhD Candidate - The University of Queensland, EECS***
+In the world of concurrent and distributed systems, complexity abounds. Through my PhD research, I've sought to illuminate this complexity by applying valuation algebras and sheaf theory to formal methods. My work is driven not only by intellectual curiosity but by a genuine desire to enhance the efficiency and reliability of the digital infrastructure that connects our world.
 
 **Research Interests**:
 
-- Sheaf Theory
-- Valuation Algebras
-- Concurrent and Distributed Systems
+- Valuation Algebras: A foundation that allows me to explore abstract algebraic structures with a broad range of applications.
+- Sheaf Theory: A powerful tool for understanding local behaviours in mathematical contexts, a concept that greatly enriches my studies.
+- Formal Methods: Investigating precise ways of specifying and verifying complex software systems to ensure their correct operation.
+- Concurrent and Distributed Systems: Striving to make the technology that underpins modern life more robust and resilient.
 
 ***Founder - Oneironaut***
+Beyond academia, I'm the founder of [Oneironaut](https://oneironaut.dev), a mathematical software consultancy. Here, I combine my passions for category theory, artificial intelligence, machine learning, and functional programming to create tailor-made solutions to complex problems. It's not about using the latest buzzwords or tech trends; it's about applying deep mathematical insight to real-world challenges in knowledge representation & reasoning and predictive analytics.
 
-I'm the founder of [Oneironaut](https://oneironaut.dev), a mathematical software consultancy.  We leverage a distinctive blend of category theory, sheaf theory, functional programming, and machine learning in knowledge representation & reasoning and predictive analytics. This enables us to create bespoke, effective, and innovative solutions for our clients' complex problems.
+Oneironaut is an embodiment of my commitment to innovative thinking, enabling me to craft bespoke solutions that are both effective and novel. My work serves as a bridge between abstract theory and practical application, and I continually strive to translate mathematical concepts into tangible value for my clients.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
