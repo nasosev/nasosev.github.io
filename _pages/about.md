@@ -22,6 +22,7 @@ social: true  # includes social icons at the bottom of the page
 I'm Naso Evangelou-Oost, a third-year PhD Candidate at the University of Queensland, School of Electrical Engineering and Computer Science (EECS). My academic journey is deeply rooted in a fascination with mathematics and computer science, leading me to explore intricate realms like valuation algebras and sheaf theory.
 
 ***PhD Candidate - The University of Queensland, EECS***
+
 In the world of concurrent and distributed systems, complexity abounds. Through my PhD research, I've sought to illuminate this complexity by applying valuation algebras and sheaf theory to formal methods. My work is driven not only by intellectual curiosity but by a genuine desire to enhance the efficiency and reliability of the digital infrastructure that connects our world.
 
 **Research Interests**:
@@ -32,6 +33,7 @@ In the world of concurrent and distributed systems, complexity abounds. Through 
 - Concurrent and Distributed Systems: Striving to make the technology that underpins modern life more robust and resilient.
 
 ***Founder - Oneironaut***
+
 Beyond academia, I'm the founder of [Oneironaut](https://oneironaut.dev), a mathematical software consultancy. Here, I combine my passions for category theory, artificial intelligence, machine learning, and functional programming to create tailor-made solutions to complex problems. It's not about using the latest buzzwords or tech trends; it's about applying deep mathematical insight to real-world challenges in knowledge representation & reasoning and predictive analytics.
 
 Oneironaut is an embodiment of my commitment to innovative thinking, enabling me to craft bespoke solutions that are both effective and novel. My work serves as a bridge between abstract theory and practical application, and I continually strive to translate mathematical concepts into tangible value for my clients.
