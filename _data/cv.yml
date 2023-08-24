@@ -32,14 +32,14 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Founder, Mathematician & Software Developer Lead
+    - title: Founder, Principal Mathematician & AI Engineer
       institution: Oneironaut
       year: 2022-
       description:
         - Independent consultancy for mathematical research and software development
         - Utilising artificial intelligence, applied category theory, formal methods, functional programming
 
-    - title: Mathematician & Software Developer Lead
+    - title: Research Scientist & Development Lead
       institution: Sirius-beta
       year: 2022-
       description:
