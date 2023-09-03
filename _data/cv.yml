@@ -13,7 +13,7 @@
   contents:
     - title: Ph.D. in Computer Science (in progress)
       institution: The University of Queensland, St Lucia, Australia
-      # year: 2020-2023
+      year: # 2020-2023
       description:
         - 'Thesis: “Concurrent valuation algebras”'
         - 'Advisors: Ian J. Hayes, Larissa Meinicke'
@@ -23,7 +23,7 @@
         #     - Sub-description 2.
     - title: B.Math. (Honours Class I)
       institution: The University of Queensland, St Lucia, Australia
-      # year: 2018-2019
+      year: # 2018-2019
       description:
         - 'Thesis: “Homological aspects of Morse-Bott theory”'
         - 'Advisor: Joseph F. Grotowski'
