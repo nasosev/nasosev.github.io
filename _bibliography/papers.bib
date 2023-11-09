@@ -29,25 +29,22 @@
 }
 
 @misc{evangelouoost2023a,
-  abstract      = {This paper introduces Concurrent Valuation Algebras (CVAs), a novel extension of ordered valuation algebras (OVAs). CVAs include two combine operators representing parallel and sequential products, adhering to a weak exchange law.
-                   This development offers theoretical and practical benefits for the specification and modelling of concurrent and distributed systems.
-                   As a presheaf on a space of domains, CVAs enable localised specifications, supporting modularity, compositionality, and the ability to represent large and complex systems.
-                   Furthermore, CVAs align with lattice-based refinement reasoning and are compatible with established methodologies such as Hoare and Rely-Guarantee logics.
-                   The flexibility of CVAs is explored through three trace models, illustrating distinct paradigms of concurrent/distributed computing, interrelated by morphisms.
-                   The paper also highlights the potential to incorporate a powerful local computation framework from valuation algebras for model checking in concurrent and distributed systems.
-                   The foundational results presented have been verified with the proof assistant Isabelle/HOL.},
-  archiveprefix = {arXiv},
-  author        = {Naso Evangelou-Oost and Larissa Meinicke and Callum Bannister and Ian J. Hayes},
-  bibtex_show   = {true},
-  eprint        = {2305.18017},
-  order         = {11},
-  primaryclass  = {cs.LO},
-  pubstate      = {Accepted; to appear in Springer Lecture Notes in Computer Science series.},
-  selected      = {true},
-  title         = {Trace models of concurrent valuation algebras},
-  url           = {https://arxiv.org/abs/2305.18017},
-  year          = {2023}
+  abstract  = {This paper introduces Concurrent Valuation Algebras (CVAs), a novel extension of ordered valuation algebras (OVAs). CVAs include two combine operators representing parallel and sequential products, adhering to a weak exchange law. This development offers theoretical and practical benefits for the specification and modelling of concurrent and distributed systems. As a presheaf on a space of domains, CVAs enable localised specifications, supporting modularity, compositionality, and the ability to represent large and complex systems. Furthermore, CVAs align with lattice-based refinement reasoning and are compatible with established methodologies such as Hoare and Rely-Guarantee logics. The flexibility of CVAs is explored through three trace models, illustrating distinct paradigms of concurrent/distributed computing, interrelated by morphisms. The paper also highlights the potential to incorporate a powerful local computation framework from valuation algebras for model checking in concurrent and distributed systems. The foundational results presented have been verified with the proof assistant Isabelle/HOL.},
+  address   = {Singapore},
+  author    = {Evangelou-Oost, Naso
+               and Meinicke, Larissa
+               and Bannister, Callum
+               and Hayes, Ian J.},
+  booktitle = {Formal Methods and Software Engineering},
+  editor    = {Li, Yi
+               and Tahar, Sofi{\`e}ne},
+  isbn      = {978-981-99-7584-6},
+  pages     = {118--136},
+  publisher = {Springer Nature Singapore},
+  title     = {Trace Models of Concurrent Valuation Algebras},
+  year      = {2023}
 }
+
 
 @inproceedings{evangelouoost2023b,
   abstract    = {We present a lattice of distributed program specifications, whose ordering represents implementability/refinement. Specifications are modelled by families of subsets of relative execution traces, which encode the local orderings of state transitions, rather than their absolute timing according to a global clock. This is to overcome fundamental physical difficulties with synchronisation. The lattice of specifications is assembled and analysed with several established mathematical tools. Sets of nondegenerate cells of a simplicial set are used to model relative traces, presheaves model the parametrisation of these traces by a topological space of variables, and information algebras reveal novel constraints on program correctness. The latter aspect brings the enterprise of program specification under the widening umbrella of contextual semantics introduced by Abramsky et al. In this model of program specifications, contextuality manifests as a failure of a consistency criterion comparable to Lamport's definition of sequential consistency. The theory of information algebras also suggests efficient local computation algorithms for the verification of this criterion. The novel constructions in this paper have been verified in the proof assistant Isabelle/HOL.},

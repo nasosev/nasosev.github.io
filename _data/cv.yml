@@ -1,8 +1,8 @@
 - title: General Information
   type: map
   contents:
-    - name: Full Name
-      value: Athanasios (Naso) Evangelou-Oost
+    - name: Name
+      value: Naso Evangelou-Oost
     # - name: Date of Birth
     #   value: 14th March 1879
     - name: Languages
@@ -39,7 +39,7 @@
         - Independent consultancy for mathematical research and software development
         - Utilising artificial intelligence, applied category theory, formal methods, functional programming
 
-    - title: Research Scientist & Development Lead
+    - title: Mathematician & Development Lead
       institution: Sirius-beta
       year: 2022-
       description:
