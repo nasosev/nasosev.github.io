@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 Dr. Naso Evangelou-Oost, Senior Mathematician at [Sirius-beta Labs](https://sirius-beta.com/).
 
-***Senior Mathematician - Sirius-beta Labs***
+***Senior Mathematician — Sirius-beta Labs***
 
 At [Sirius-beta Labs](https://sirius-beta.com/), I engage in mathematical research and software design across knowledge representation, formal methods, and predictive systems. My work applies abstract mathematical frameworks—valuation algebras, sheaf theory, and category theory—to build scalable, resilient, intelligent software systems bridging theory and implementation.
 
@@ -32,7 +32,7 @@ At [Sirius-beta Labs](https://sirius-beta.com/), I engage in mathematical resear
 - Formal Methods: Rigorous specification and verification of complex software systems.
 - Concurrent and Distributed Systems: Creating more robust and resilient technologies.
 
-***Founder - Oneironaut***
+***Founder — Oneironaut***
 
 I founded [Oneironaut](https://oneironaut.dev), a mathematical software consultancy where category theory, artificial intelligence, and functional programming converge to solve complex problems. This work transcends technology trends, applying mathematical insight to challenges in knowledge representation and predictive analytics.
 
