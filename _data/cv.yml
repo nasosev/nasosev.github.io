@@ -32,15 +32,15 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Founder, Mathematician & AI Engineer
+    - title: Founder
       institution: Oneironaut
       year: 2022-
       description:
         - Independent consultancy for mathematical research and software development
         - Utilising artificial intelligence, applied category theory, formal methods, functional programming
 
-    - title: Mathematician & Development Lead
-      institution: Sirius-beta
+    - title: Senior Mathematician
+      institution: Sirius-beta Labs
       year: 2022-
       description:
       - Lead a project funded by the Defence Science and Technology Group (DST) through their Next Generation Technology Fund (NGTF)
